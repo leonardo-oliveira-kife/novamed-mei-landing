@@ -1,0 +1,12 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+.claude/
+
+# Node (caso alguém rode ferramentas locais de teste/build no futuro)
+node_modules/
+package-lock.json
