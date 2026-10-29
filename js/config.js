@@ -29,6 +29,7 @@ window.NOVAMED_LEAD_FORM_CONFIG = {
     utm_campaign: 'utm_campaign',
     utm_content: 'utm_content',
     utm_term: 'utm_term',
+    gclid: 'gclid',
   },
 
   // Ajuste a mensagem se quiser, ou troque por outra URL de pós-conversão.
